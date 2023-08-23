@@ -2,3 +2,7 @@
   from = "/*"
   to = "/"
   status = 200
+
+[build]
+command = "npm run build"  # Use npm for build
+publish = "client/build"   # Replace with your publish directory
