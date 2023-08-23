@@ -5,5 +5,5 @@
 
 [build]
 command = "npm run build"   # Use your Vite build command here
-publish = "path/to/dist"    # Replace with the path to your Vite build output directory
+publish = "dist"    # Replace with the path to your Vite build output directory
 
