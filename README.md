@@ -1,4 +1,4 @@
-![image](https://github.com/vikasrajpoot30/HotelBooking/assets/120569817/eecf56de-e277-403a-8911-efd5d11f5e8f)# Hotel Booking Web Application
+# Hotel Booking Web Application
 
 This web application is built using the MERN (MongoDB, Express, React, Node.js) stack. It offers a full-stack solution for users to effortlessly book accommodations at various locations. The application supports user registration, login, and authentication. Users can also manage their accommodations and bookings effectively.
 
